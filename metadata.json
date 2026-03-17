@@ -1,0 +1,5 @@
+{
+  "name": "UniEvent Leave Manager",
+  "description": "A dual-interface application for university leave management featuring a standard student dashboard and a gamified swipe-based approval system for teachers.",
+  "requestFramePermissions": []
+}
